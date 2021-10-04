@@ -1,0 +1,198 @@
+.slide{
+    position: relative;
+}
+.card-text{
+    padding-top: 40px;
+    position: absolute;
+    top: 100px;
+    left: 100px;
+    width: 300px;
+    height: 250px;
+    border-radius: 5px;
+    background-color: rgba(240, 248, 255, 0.692);
+}
+.get-started{
+    border: none;
+    outline: none;
+    background-color: #FF7D00;
+    height: 40px;
+    width: 150px;
+    color: aliceblue;
+    font-weight: 800;
+    cursor: pointer;
+}
+.card-text h2{
+    color: #0F2A5B;
+    font-size: 28px;
+}
+.card-text p{
+    color: rgb(56, 49, 49);
+}
+.curricontainer{
+    background-color: #231834;
+}
+.curricontainer h2{
+color: white;
+padding-top: 20px;
+}
+.curriculum{
+   
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 30px;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    color: aliceblue;
+    padding-bottom: 30px;
+ 
+}
+.c-icon{
+    color: #FF8700;
+    font-size: 39px
+}
+.curri-card{
+    border: 1px solid ;
+    border-radius: 5px;
+}
+.curri-card:hover{
+    background-color: #392e47;
+    cursor: pointer;
+}
+
+.content{
+    padding-top: 30px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 30px;
+}
+.welcome{
+    width: 300px;
+   padding-left: 50px;
+    margin-right: 20px;
+}
+.welcome h3{
+    color: #0F2A5B;
+    font-size: 22px;
+  
+}
+.welcome p{
+    color: rgb(128, 131, 134);
+}
+.find-more{
+    border: none;
+    outline: none;
+    background-color: #FF7D00;
+    height: 70px;
+    width: 250px;
+    color: aliceblue;
+    font-weight: 800;
+    cursor: pointer;
+}
+
+.image-content{
+    position: relative;
+    padding-top: 50px;
+}
+.text{
+    position: absolute;
+    top: 90px;
+    left: 43px;
+    width: 400px;
+    color: #0F2A5B;
+    background-color: rgba(240, 248, 255, 0.596);
+}
+
+
+.school-advice{
+    color: #0F2A5B;
+    width: 400px;
+}
+
+
+.course-number h2{
+    font-size: 30px;
+    color: #0F2A5B;
+    font-weight: 600;
+}
+
+.course-number, .aid, .student-number p{
+        font-size: 20px;
+        color: #1a2e53;
+        font-weight: 500;
+}
+.animation{
+    padding-top: 30px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    background-color: #f2f4f8;
+   
+    grid-gap: 20px;
+    padding: 20px ;
+}
+.fun-fact h1{
+    border-top: 3px solid #FF7D00;
+}
+.student-number, .course-number, .aid{
+    border: 2px solid #516a97;
+    border-radius: 5px;
+}
+.fun{
+    padding-top: 30px;
+}
+
+
+.registration-section,.admision{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    margin-top: 50px;
+}
+.registration-form{
+    background-color: #f2f4f8;
+    color: #0F2A5B;
+ 
+}
+
+input[type='text']{
+    width: 230px;
+    height: 30px;
+    margin-bottom: 20px;
+    border: none;
+    border: 1px solid rgb(156, 151, 151);
+}
+.events{
+    background-color: #0F2A5B;
+    color: white;
+}
+
+.send{
+    border: none;
+    outline: none;
+    background-color: #FF7D00;
+    height: 40px;
+    width: 250px;
+    color: aliceblue;
+    font-weight: 800;
+    cursor: pointer;
+}
+.details p span:hover{
+    border: none;
+}
+.admision{
+    background-color: #f2f4f8;
+}
+.details .call{
+    border: 1px solid ;
+   height: 50px;
+   width: 230px;
+   padding-top: 30px;
+   cursor: pointer;
+
+}
+.details{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+

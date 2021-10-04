@@ -1,0 +1,60 @@
+.image-conatiner{
+position: relative;
+}
+.contact{
+    position: absolute;
+    top: 120px;
+    left: 50px;
+    background-color: #ff7b0083;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-weight: 900;
+    color: white;
+    font-size: 40px;
+}
+.school-details{
+    padding: 40px;
+    display: grid;
+    grid-gap: 40px;
+    grid-template-columns: repeat(3, 1fr);
+}
+.address{
+    color: #0F2A5B;
+    background-color: thistle;
+    padding: 20px;
+}
+.address p{
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+}
+ul li{
+    list-style: circle;
+    text-align: left;
+}
+.working-time{
+    border-top: 5px solid #ff7b00ef;
+    color: #0F2A5B;
+    margin-bottom: 20px;
+}
+.working-time p{
+    font-weight: 600;
+}
+.registration{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.msg{
+    margin-left: 40px;
+}
+.normal-text{
+    color: #0F2A5B;
+}
+.btn{
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+.info{
+    padding-top: 40px;
+}

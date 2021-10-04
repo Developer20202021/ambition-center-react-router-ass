@@ -1,6 +1,14 @@
-# Getting Started with Create React App
+# Project Name
+Ambition center
+## Getting Started with Our Ambition School
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This Project is built for a School. There have many courses like Mobile Application Development, Front End Development, Academics. Our Real life website link is(https://ambition-center-react-router-ass.netlify.app/)
+
+## How will You use this Project
+It is very Simple that this website is very easy to use and it is very user-friendly. There has much information. You read our website article. You will understand this.
+
+## How many services have there
+There are about 9 Services. Please visit the services page and see the information.
 
 ## Available Scripts
 

@@ -1,0 +1,33 @@
+button{
+    border: none;
+    outline: none;
+    background-color: #FF7D00;
+    height: 40px;
+    width: 200px;
+    color: aliceblue;
+    font-weight: 800;
+    font-size: 17px;
+    margin-top: 10px;
+   
+}
+.cardText{
+    text-align: left;
+}
+.singleCard{
+    width: 300px;
+    height: 440px;
+    border: 1px solid white;
+    box-shadow: 3px 2px 4px 1px;
+    border-radius: 10px;
+   
+}
+.title h3{
+    color: #0F2A5B;
+}
+.info-container p{
+    font-size: 15px;
+    font-weight: 800;
+}
+.title{
+    text-align: left;
+}

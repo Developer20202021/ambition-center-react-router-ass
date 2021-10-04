@@ -1,0 +1,30 @@
+.footer{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    padding: 30px;
+    text-align: left;
+   
+   
+}
+.btnPart{
+    padding-top: 50px;
+}
+.contactUs{
+    border: none;
+    outline: none;
+    background-color: #FF7D00;
+    height: 40px;
+    width: 250px;
+    color: aliceblue;
+    font-weight: 800;
+    cursor: pointer;
+}
+.contentTwo, .contentThree{
+padding-top: 60px;
+padding-left: 20px;
+}
+.footer-container{
+    background-color: #0F2A5B;
+    color: white;
+    padding-bottom: 30px;
+}
